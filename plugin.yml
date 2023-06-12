@@ -1,0 +1,5 @@
+name: DevTools
+main: maipian\quza\DevTools
+version: 1.0.0
+api: ["4.0.0"]
+author: QuzaNetwork(MaiPian)
