@@ -1,1 +1,1 @@
-# This plugin also can load the folder plugin
+# This plugin can only load folder plugins
